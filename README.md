@@ -52,7 +52,7 @@ dc-traffic-enforcement-analytics/
 
 ## Database Design
 
-![ERD](docs/screenshots/ERD_Diagram.png)
+![ERD](docs/screenshots/ERD Diagram.png)
 
 Two normalized tables linked by date:
 
