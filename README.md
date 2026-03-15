@@ -36,7 +36,6 @@ dc-traffic-enforcement-analytics/
 │   ├── 02_analysis_queries.sql    
 │   └── README.md                  
 ├── docs/
-│   ├── project_documentation.pdf
 │   └── screenshots/
 │       ├── ERD_Diagram.png
 │       ├── database_tables.png
