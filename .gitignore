@@ -1,0 +1,25 @@
+# Credentials — never commit
+.env
+
+# Raw data — download from sources, do not commit
+Violations Data/
+Weather Data/
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
